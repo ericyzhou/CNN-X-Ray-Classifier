@@ -4,6 +4,8 @@ A convolutional neural network for classifying X-rays.
 
 ## Dataset
 
+National Institutes of Health Clinical Center Chest X-Ray Dataset
+
 https://nihcc.app.box.com/v/ChestXray-NIHCC
 
 ## Installation
@@ -19,6 +21,9 @@ numpy==1.18.5
 tensorflow==2.3.1
 
 matplotlib==3.3.2
+
+scikit-learn==0.23.2
+
 
 ## Project status
 
