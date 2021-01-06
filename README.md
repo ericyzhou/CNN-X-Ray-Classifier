@@ -23,8 +23,3 @@ tensorflow==2.3.1
 matplotlib==3.3.2
 
 scikit-learn==0.23.2
-
-
-## Project status
-
-Active
